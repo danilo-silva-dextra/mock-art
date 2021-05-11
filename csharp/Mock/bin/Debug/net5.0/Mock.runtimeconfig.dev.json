@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cinq/.dotnet/store/|arch|/|tfm|",
+      "/home/cinq/.nuget/packages"
+    ]
+  }
+}
